@@ -1,0 +1,2 @@
+# XIRR
+Calculates the XIRR
